@@ -5,11 +5,11 @@ The Starbucks Brewing Insights Dashboard is a visually engaging Power BI report 
 
 
 The dashboard was built using the following tools and technologies:
-- 📊 Power BI Desktop - Main data visualization platform used for report creation.
-- 📁 Power Query - Data transformation and cleaning layer for reshaping the Starbucks dataset.
-- 🧮 DAX (Data Analysis Expressions) - Used for calculated measures like Avg Caffeine, Avg Sugar, Avg Calories.
-- 📄 Data Modeling - Relationships and measures for aggregation.
-- 📂 File Format - .pbix for development and .png/.pdf for dashboard preview.
+- Power BI Desktop - Main data visualization platform used for report creation.
+- Power Query - Data transformation and cleaning layer for reshaping the Starbucks dataset.
+-DAX (Data Analysis Expressions) - Used for calculated measures like Avg Caffeine, Avg Sugar, Avg Calories.
+- Data Modeling - Relationships and measures for aggregation.
+- File Format - .pbix for development and .png/.pdf for dashboard preview.
 
 
 Source: Kaggle - Starbucks Nutrition Data & Starbucks Menu Dataset
